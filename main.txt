@@ -6,3 +6,4 @@ Hello
 How are you?
 >>>>>>> a0ad81639e089d2d45621202d06f08ca50f4e2d9
 OK
+I'm fine
